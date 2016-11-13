@@ -1,0 +1,15 @@
+﻿{
+  "manifest_version": 2,
+  "name": "Vesahymiöt-scriptV2",
+  "version": "2.0.16",
+  "description": "Hymiöskripta autocompletella. Alkuperäinen Greasemonkey-skripti: Kaasulaiva, Nappa.",
+  "icons": { "16": "mrgreen_16.png",
+           "48": "mrgreen_48.png",
+          "128": "mrgreen_128.png" },
+  "content_scripts": [ {
+    "css": ["jquery-ui.css"],
+    "js": [ "jquery.min.js", "jquery-ui.min.js", "main.js" ],
+    "matches": [ "http://*.vesabbs.fi/*", "https://*.vesabbs.fi/*", "http://*.vesabbs.com/*", "https://*.vesabbs.com/*"]
+  }],
+  "web_accessible_resources": ["jquery.min.map"]
+}
