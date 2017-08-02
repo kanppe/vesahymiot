@@ -171,7 +171,7 @@ var smileys = {
     "pleb" : "http://i.imgur.com/dLWt57F.png",
     "nautin" : "http://i.imgur.com/i3sKS0b.png",
     "lapsi" : "http://i.imgur.com/5wAoHyz.jpg",
-    "karhunuuh" : "http://i2.photobucket.com/albums/y37/huuhoo/murr.jpg",
+    "karhunuuh" : "http://i.imgur.com/BCUhCUT.jpg",
     "mtvo" : "http://i.imgur.com/YnsHgwe.png",
     "itvo" : "http://i.imgur.com/UlNUsij.jpg",
     "diplomi" : "http://i.imgur.com/ZjiKxZ2.jpg",
