@@ -211,7 +211,8 @@ var smileys = {
     "siem": "http://i.imgur.com/ND2tVaq.gif",
     "landa": "http://i.imgur.com/D4yzjTH.gif",
     "seinfeld": "http://i.imgur.com/ucuRP6R.gif",
-    "lepo": "http://i.imgur.com/GOEpzkq.jpg"
+    "lepo": "http://i.imgur.com/GOEpzkq.jpg",
+    "huutista": "https://i.imgur.com/bN26x4S.png"
  };
 
  function split(val) {
