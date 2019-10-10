@@ -1,7 +1,7 @@
 ﻿{
   "manifest_version": 2,
   "name": "Vesahymiöt-scriptV2",
-  "version": "2.0.18",
+  "version": "2.0.19",
   "description": "Hymiöskripta autocompletella. Alkuperäinen Greasemonkey-skripti: Kaasulaiva, Nappa.",
   "icons": { "16": "mrgreen_16.png",
            "48": "mrgreen_48.png",
